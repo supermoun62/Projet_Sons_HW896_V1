@@ -15,3 +15,5 @@ Kicad_Gerber_Projet_Sons_HW896_V1.
 Kicad_PDF_Projet_Sons_HW896_V1.
 
 Kicad_Materiel_Projet_Sons_HW896_V1.
+
+Synoptique
