@@ -20,5 +20,5 @@ Synoptique: https://github.com/supermoun62/Projet_Sons_HW896_V1/blob/main/Synopt
 
 PCB: https://github.com/supermoun62/Projet_Sons_HW896_V1/blob/main/Kicad_image3D_Projet_Sons_HW896_V1.JPG
 
-Schéma: https://github.com/supermoun62/Projet_Sons_HW896_V1/blob/main/Kicad_Projet_Sons_HW896_V1.pdf
+Schéma: https://github.com/supermoun62/Projet_Sons_HW896_V1/blob/main/Kicad_Schema_Projet_Sons_HW896_V1/Kicad_Schema_Projet_Sons_HW896_V1.pdf
 
